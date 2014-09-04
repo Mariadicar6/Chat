@@ -1,4 +1,0 @@
-Chat
-====
-
-Primera version
